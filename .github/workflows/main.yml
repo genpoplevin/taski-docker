@@ -156,4 +156,4 @@ jobs:
         with:
           context: ./frontend/
           push: true
-          tags: username/taski_frontend:latest
+          tags: genpoplevin/taski_frontend:latest
